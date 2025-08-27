@@ -2,6 +2,8 @@
 
 Este es un proyecto básico que utiliza la API de [PokeAPI](https://pokeapi.co/) para mostrar información de Pokémon usando JavaScript vanilla.
 
+> **Referencia adicional:** También tomamos inspiración y referencias visuales de la [Pokédex oficial de Pokémon](https://www.pokemon.com/el/pokedex) para mejorar la presentación y organización de la información.
+
 ## Características
 
 - Lista de Pokémon con imágenes y nombres.

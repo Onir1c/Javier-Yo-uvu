@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root {
+    --bg-primary:#080410;
+    --color-primary:#fff;
+}
+
+body {
+    background: var(--bg-primary);
+    color: var(--color-primary);
+    font-family: sans-serif;
+}
